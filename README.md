@@ -7,4 +7,5 @@ And some more lines
 # Chapter for additions of trainees
 
 toto je moje druhá zm?na
+jkr-update
 
