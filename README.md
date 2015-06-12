@@ -17,3 +17,5 @@ langes comment ...
 A já jsem sem taky pridal, ale nikoli rostislav :)
 
 
+f
+
