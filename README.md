@@ -14,3 +14,6 @@ ToMik was here also.
 mikolrom: new line
 langes comment ... 
 
+A já jsem sem taky pridal, ale nikoli rostislav :)
+
+
