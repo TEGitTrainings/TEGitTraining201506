@@ -1,4 +1,10 @@
 # TEGitTraining201506
+asdfas
+df
+asd
+fasd
+f
+as
 
 This is a Tieto Czech training of Git
 
